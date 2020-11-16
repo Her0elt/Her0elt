@@ -82,12 +82,12 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1193242386&cover_image=true&theme=default" /></div>  
 
 <br/>  
-
+<!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Her0elt&&style=flat-square" align="center" />
 </div>  
 
 <br />
-
+-->
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
