@@ -1,8 +1,8 @@
 ### <div align="center">I'm Hermann, a computer science student at NTNU Trondheim 💯</div>  
   
 
-- 🔭 I’m currently working on [Github Index Frontend](https://github.com/tihlde/Kvark)  
-👀 and [Github Index Backend](https://github.com/tihlde/Lepton)    
+- 🔭 I’m currently working on [Index Frontend](https://github.com/tihlde/Kvark)  
+👀 and [Index Backend](https://github.com/tihlde/Lepton)    
   
 
 - 🌱 I’m currently learning C++ and Kotlin  
