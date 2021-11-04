@@ -62,8 +62,7 @@
 <a href="https://linkedin.com/in/hermann-elton-2063151a2" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>
-  
+</div>  
 
 <br/>  
 
@@ -73,6 +72,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=her0elt&layout=compact&theme=dark&exclude_repo=Java-grunnkurs,Java-Programming-2&hide=Jupyter Notebook" />
 
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--<br/>  
 
 <!--<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1193242386&cover_image=true&theme=default" /></div>  
