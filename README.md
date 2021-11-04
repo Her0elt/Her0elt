@@ -73,7 +73,7 @@
 
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Jokes Card" />
 <!--<br/>  
 
 <!--<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1193242386&cover_image=true&theme=default" /></div>  
