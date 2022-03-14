@@ -5,7 +5,7 @@
 👀 and [Index Backend](https://github.com/tihlde/Lepton)    
   
 
-- 🌱 I’m currently learning C++ and Kotlin  
+- 🌱 I’m currently learning pulumi and Quarkus
   
 
 <br/>  
