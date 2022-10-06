@@ -86,7 +86,7 @@
 
 ## Github Stats  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=her0elt&count_private=true&hide=stars&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=her0elt&layout=compact&theme=dark&exclude_repo=Java-grunnkurs,Java-Programming-2&hide=ipynb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=her0elt&layout=compact&theme=dark&exclude_repo=Java-grunnkurs,Java-Programming-2&hide=jupyter%20notebook" />
 
 
 <img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Jokes Card" />
