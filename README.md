@@ -1,7 +1,7 @@
 ### <div align="center">I'm Hermann, a computer science student at NTNU Trondheim 💯</div>    
   
 
-- 🌱 I’m currently learning golang and Quarkus
+- 🌱 I’m currently learning tRPC + NEXTJS.
   
 
 <br/>  
