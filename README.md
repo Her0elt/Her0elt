@@ -80,7 +80,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://tihldestorage.blob.core.windows.net/applicationpdf/926af8e6-8415-4af5-92ea-8ec253fcae5aHermann-cv.pdf" target="_blank">
-<img src="https://img.shields.io/badge/-CV-red?style=for-the-badge&logo=Website&logoColor=purple" alt=website style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Resume-red?style=for-the-badge&logo=Website&logoColor=purple" alt=website style="margin-bottom: 5px;" />
 </a>
 </div>  
 
