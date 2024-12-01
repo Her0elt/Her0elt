@@ -1,4 +1,4 @@
-### <div align="center">I'm Hermann, a computer science student at NTNU Trondheim 💯</div>    
+### <div align="center">I'm Hermann, a IT consultant from Norway 💯</div>    
 
   
 
